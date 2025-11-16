@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tạo Mô Tả Nhân Vật Từ Ảnh",
+  "description": "Một ứng dụng web để tạo mô tả nhân vật từ hình ảnh bằng Gemini AI và xuất kết quả ra tệp JSON.",
+  "requestFramePermissions": []
+}
